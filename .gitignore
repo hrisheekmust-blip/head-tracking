@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+*.mp4
+calib_imgs/
+.venv/
+models/*.onnx

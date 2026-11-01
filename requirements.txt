@@ -1,0 +1,2 @@
+opencv-python-headless>=4.8   # use opencv-python on a laptop if you want --show
+numpy
